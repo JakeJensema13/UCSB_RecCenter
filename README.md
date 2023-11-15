@@ -1,6 +1,6 @@
 # UCSB Recreation Center Project
 
-# *Link to Article: https://dailynexus.com/2023-06-01/flex-your-schedule-the-best-time-to-hit-the-recreation-center/*
+# *Link to Newspaper Article: https://dailynexus.com/2023-06-01/flex-your-schedule-the-best-time-to-hit-the-recreation-center/*
 
 #### Outsourced Excel files were obtained, containing the count of visitors entering the UCSB recreation center per hour. The data was sorted and filtered meticulously to ensure accuracy and then stored in a proper CSV file. Using Pandas, I performed data cleaning by applying filters specific to certain parts of the academic quarter.
 
